@@ -11,4 +11,4 @@ The way the second BOT is set up allows the user to trade live with an OANDA acc
 ## IPython Notebooks:
 
 - [Trading BOT](https://nbviewer.jupyter.org/github/vorsatti/Trading-BOT/blob/master/Trading%20BOT.ipynb)
-- [LIVE KC Trading BOT] ()
+- [LIVE KC Trading BOT] (https://nbviewer.jupyter.org/github/vorsatti/Trading-BOT/blob/master/LIVE%20BOT%20EURUSD%20Keltner%20Channel.ipynb)
